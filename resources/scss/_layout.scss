@@ -1,0 +1,23 @@
+body{
+    color: white;
+    background-color: #353557;
+    padding: 20px;
+    overflow: hidden;
+}
+
+input, select{
+    background-color: #434367;
+    border-radius: 6px;
+    border: unset;
+}
+
+nav{
+    display: flex;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+header{
+    margin-bottom: 20px;
+    border-bottom: 2px solid #434367;
+}
